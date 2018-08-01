@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+}
+
+body{
+  background:#ffaeb9;
+  padding-top:5%;
+  padding-left:2%;
+  padding-right:2%;
+}
+
+img {
+  width: 30%;
+}
+
+.column {
+  float:left;
+  width: 33%;
+}
